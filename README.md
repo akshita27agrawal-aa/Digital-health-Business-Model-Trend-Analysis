@@ -7,7 +7,7 @@ The project simulates a commercial and competitive analysis that could support h
 
 ## Business Problem:
 Digital health companies operate under different monetization models, including subscription-based, pay-per-use, and payer-reimbursed models. These differences can significantly influence how companies grow revenue, acquire and retain users, generate profits, and maintain financial stability.
-This project evaluates the financial and operating performance of four publicly traded digital health companies — Teladoc Health, Hims & Hers Health, GoodRx, and Talkspace over Q1 2022 to Q1 2026. The objective is to compare their business models across revenue growth, profitability, user growth, revenue efficiency, and financial consistency to identify which models demonstrate stronger overall performance and what trade-offs exist between growth and profitability.
+This project evaluates the financial and operating performance of four publicly traded digital health companies: Teladoc Health, Hims & Hers Health, GoodRx, and Talkspace over Q1 2022 to Q1 2026. The objective is to compare their business models across revenue growth, profitability, user growth, revenue efficiency, and financial consistency to identify which models demonstrate stronger overall performance and what trade-offs exist between growth and profitability.
 
 ## Companies Analyzed:
 Teladoc- Subscription based model
